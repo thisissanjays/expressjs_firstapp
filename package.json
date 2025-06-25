@@ -1,0 +1,23 @@
+{
+  "name": "expressjs_firstapp",
+  "version": "1.0.0",
+  "description": "first basic tutorial app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisissanjays/expressjs_firstapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisissanjays/expressjs_firstapp/issues"
+  },
+  "homepage": "https://github.com/thisissanjays/expressjs_firstapp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.16.0"
+  }
+}
